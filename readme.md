@@ -5,4 +5,4 @@ Treinando HTML e deploy para o GitHub.
 - HTML.
 
 ## Autor
-!(Ricardo Vitor Castilho)|[https://github.com/RicardoVCastilho]
+!([https://github.com/RicardoVCastilho]|(Ricardo Vitor Castilho)
